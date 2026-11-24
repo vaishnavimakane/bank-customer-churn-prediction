@@ -6,4 +6,4 @@ plotly
 openpyxl
 matplotlib
 shap
-joblib
+joblib==1.5.3
