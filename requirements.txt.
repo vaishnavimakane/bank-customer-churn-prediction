@@ -1,9 +1,10 @@
 streamlit
 pandas
 numpy
+joblib==1.5.3
 scikit-learn
 plotly
 openpyxl
 matplotlib
 shap
-joblib==1.5.3
+
